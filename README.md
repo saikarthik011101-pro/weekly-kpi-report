@@ -82,4 +82,4 @@ Revenue also has a 4-week average comparison. Revenue is broken down by product 
 
 ## Author
 
-Add your name, LinkedIn link and email here.
+Mididoddi Sai Karthik, [LinkedIn link](https://www.linkedin.com/in/sai-karthik-230290300).
